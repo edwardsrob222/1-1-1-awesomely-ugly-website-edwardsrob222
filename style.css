@@ -1,1 +1,43 @@
+h1 {
+  font-family: sans-serif;
+  color: purple;
+  background: linear-gradient(to right, #E32323, #E32490);
+  height: 100px;
+}
 
+li {
+  display: inline-block;
+  font-weight: bold;
+  font-style: italic;
+  float: left;
+}
+
+p {
+  display: inline-table;
+  font-family: cursive;
+  margin: 100px;
+}
+
+
+img {
+  height: 400px;
+  width: 400px;
+  padding: 60px;
+  background-color: #aaa;
+}
+
+
+h3 {
+  text-align: center;
+  color: orange;
+  background: blue;
+}
+
+h2 {
+  margin-left: 140px;
+}
+
+.nav {
+  float: left;
+  padding: 10px;
+}
